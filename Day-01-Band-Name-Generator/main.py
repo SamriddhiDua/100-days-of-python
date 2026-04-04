@@ -1,5 +1,5 @@
 # Band Name Generator
-
+```python
 print("Welcome to the Band Name Generator!\n")
 
 city = input("Which city did you grow up in? ")
