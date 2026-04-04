@@ -1,4 +1,3 @@
-```md
 # Treasure Island Game (Day 3)
 
 A text-based adventure game built using Python where the player makes choices to find the treasure.
