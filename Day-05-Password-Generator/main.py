@@ -50,7 +50,7 @@ while True:
         print(password)
 
     except ValueError:
-        print("❌ Please enter valid numbers only.\n")
+        print("Please enter valid numbers only.\n")
         continue
 
     again = input("\nGenerate another password? (y/n): ")
