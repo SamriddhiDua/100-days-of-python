@@ -29,7 +29,7 @@ Scissors = '''
 
 game_images = [Rock, Paper, Scissors]
 
-print("🎮 Welcome to Rock Paper Scissors!\n")
+print("Welcome to Rock Paper Scissors!\n")
 
 user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors:\n"))
 
